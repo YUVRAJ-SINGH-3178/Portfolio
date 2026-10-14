@@ -1,0 +1,245 @@
+[
+  {
+    "number": 16,
+    "repo": "Singularity-Student-Lab/singularity-v3",
+    "title": "Feat/add student advisor anwar",
+    "state": "open",
+    "merged": false,
+    "url": "https://github.com/Singularity-Student-Lab/singularity-v3/pull/16",
+    "created_at": "2026-08-29T10:02:22Z"
+  },
+  {
+    "number": 13,
+    "repo": "Singularity-Student-Lab/singularity-v3",
+    "title": "feat: add Anwar Faizaan Reza as Student Advisor to About page",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/Singularity-Student-Lab/singularity-v3/pull/13",
+    "created_at": "2026-08-23T16:33:24Z"
+  },
+  {
+    "number": 9,
+    "repo": "Singularity-Student-Lab/singularity-v3",
+    "title": "feat: optimize mobile performance, redesign navbar & footer, restore \u2026",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/Singularity-Student-Lab/singularity-v3/pull/9",
+    "created_at": "2026-08-20T20:35:56Z"
+  },
+  {
+    "number": 7,
+    "repo": "Singularity-Student-Lab/singularity-v3",
+    "title": "Update team roster",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/Singularity-Student-Lab/singularity-v3/pull/7",
+    "created_at": "2026-08-18T16:19:23Z"
+  },
+  {
+    "number": 2046,
+    "repo": "utksh1/SecuScan",
+    "title": "Add --dry-run flag to CLI (#1967)",
+    "state": "closed",
+    "merged": false,
+    "url": "https://github.com/utksh1/SecuScan/pull/2046",
+    "created_at": "2026-07-20T12:49:39Z"
+  },
+  {
+    "number": 2045,
+    "repo": "utksh1/SecuScan",
+    "title": " Fix IDOR vulnerability in saved_views API (Fixes #1761)",
+    "state": "closed",
+    "merged": false,
+    "url": "https://github.com/utksh1/SecuScan/pull/2045",
+    "created_at": "2026-07-20T12:47:37Z"
+  },
+  {
+    "number": 3,
+    "repo": "Aayush-Bansal07/Genesis",
+    "title": "ZEUS",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/Aayush-Bansal07/Genesis/pull/3",
+    "created_at": "2026-07-14T19:19:42Z"
+  },
+  {
+    "number": 6,
+    "repo": "Singularity-Student-Lab/singularity-v3",
+    "title": "Improve Mobile Optimization",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/Singularity-Student-Lab/singularity-v3/pull/6",
+    "created_at": "2026-07-04T16:30:06Z"
+  },
+  {
+    "number": 197,
+    "repo": "siddu-k/bashmanager",
+    "title": "Fix: ensure temp file created during script instrumentation is always cleaned up",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/siddu-k/bashmanager/pull/197",
+    "created_at": "2026-06-02T03:09:33Z"
+  },
+  {
+    "number": 138,
+    "repo": "siddu-k/bashmanager",
+    "title": "Harden POST JSON parsing to avoid 500s on invalid payloads",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/siddu-k/bashmanager/pull/138",
+    "created_at": "2026-05-28T10:55:42Z"
+  },
+  {
+    "number": 130,
+    "repo": "siddu-k/bashmanager",
+    "title": "Silence known Bandit warnings",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/siddu-k/bashmanager/pull/130",
+    "created_at": "2026-05-27T16:45:46Z"
+  },
+  {
+    "number": 122,
+    "repo": "siddu-k/bashmanager",
+    "title": "Title: Fix Windows venv Python path resolution",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/siddu-k/bashmanager/pull/122",
+    "created_at": "2026-05-27T16:07:58Z"
+  },
+  {
+    "number": 69,
+    "repo": "siddu-k/bashmanager",
+    "title": "Add basic API tests for Flask endpoints",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/siddu-k/bashmanager/pull/69",
+    "created_at": "2026-05-21T12:11:53Z"
+  },
+  {
+    "number": 136,
+    "repo": "utksh1/SecuScan",
+    "title": "Add single\u2011plugin validation command",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/utksh1/SecuScan/pull/136",
+    "created_at": "2026-05-19T04:00:08Z"
+  },
+  {
+    "number": 135,
+    "repo": "utksh1/SecuScan",
+    "title": "CI: clarify frontend TypeScript typecheck step",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/utksh1/SecuScan/pull/135",
+    "created_at": "2026-05-19T03:50:47Z"
+  },
+  {
+    "number": 45,
+    "repo": "utksh1/SecuScan",
+    "title": "feat(findings): add sorting, target/category filters, and date range \u2026",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/utksh1/SecuScan/pull/45",
+    "created_at": "2026-05-15T21:14:56Z"
+  },
+  {
+    "number": 16,
+    "repo": "CampusScenes/wazpay-android",
+    "title": "add lifecycle-runtime-compose dependency",
+    "state": "open",
+    "merged": false,
+    "url": "https://github.com/CampusScenes/wazpay-android/pull/16",
+    "created_at": "2026-05-05T19:33:38Z"
+  },
+  {
+    "number": 11,
+    "repo": "CampusScenes/wazpay-android",
+    "title": "add lifecycle-runtime-compose dependency",
+    "state": "closed",
+    "merged": false,
+    "url": "https://github.com/CampusScenes/wazpay-android/pull/11",
+    "created_at": "2026-05-04T11:03:04Z"
+  },
+  {
+    "number": 2,
+    "repo": "Singularity-Student-Lab/singularity-v3",
+    "title": "fix: improve mobile layout and changeing UI across pages",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/Singularity-Student-Lab/singularity-v3/pull/2",
+    "created_at": "2026-04-28T18:27:48Z"
+  },
+  {
+    "number": 1,
+    "repo": "Singularity-Student-Lab/singularity-v3",
+    "title": "Fix mobile navbar visibility",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/Singularity-Student-Lab/singularity-v3/pull/1",
+    "created_at": "2026-04-16T17:26:07Z"
+  },
+  {
+    "number": 25,
+    "repo": "sumitrathor1/nearby",
+    "title": "\ud83d\udcda\ud83d\udd12 Complete API Documentation with OpenAPI/Swagger & Critical Security Hardening",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/sumitrathor1/nearby/pull/25",
+    "created_at": "2026-01-24T06:11:11Z"
+  },
+  {
+    "number": 111,
+    "repo": "csxark/Wealth-Vault",
+    "title": "fix: Comprehensive Code Quality Cleanup and Lint Error Resolution",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/csxark/Wealth-Vault/pull/111",
+    "created_at": "2026-01-24T05:07:14Z"
+  },
+  {
+    "number": 91,
+    "repo": "csxark/Wealth-Vault",
+    "title": "feat: Advanced Analytics Dashboard with Spending Insights & Export Functionality",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/csxark/Wealth-Vault/pull/91",
+    "created_at": "2026-01-22T21:31:43Z"
+  },
+  {
+    "number": 988,
+    "repo": "Jagrati3/Environment_Animal_Safety_Hub",
+    "title": "\ud83d\ude80 Complete Quiz Progress Tracking System & Enhanced Dark Mode Implementation",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/Jagrati3/Environment_Animal_Safety_Hub/pull/988",
+    "created_at": "2026-01-22T12:54:20Z"
+  },
+  {
+    "number": 23,
+    "repo": "shubhushubhu99/vulnXscanner",
+    "title": "Feat: Add PDF Export Engine for Scan Reports (ECWoC 2026)",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/shubhushubhu99/vulnXscanner/pull/23",
+    "created_at": "2026-01-16T15:58:10Z"
+  },
+  {
+    "number": 12,
+    "repo": "shubhushubhu99/vulnXscanner",
+    "title": "Feature/modular architecture and websockets",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/shubhushubhu99/vulnXscanner/pull/12",
+    "created_at": "2026-01-14T18:31:47Z"
+  },
+  {
+    "number": 43,
+    "repo": "csxark/Wealth-Vault",
+    "title": "Feature/security docs improvements",
+    "state": "closed",
+    "merged": true,
+    "url": "https://github.com/csxark/Wealth-Vault/pull/43",
+    "created_at": "2026-01-11T13:29:56Z"
+  }
+]
